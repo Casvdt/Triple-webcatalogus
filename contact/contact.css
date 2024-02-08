@@ -16,49 +16,70 @@ main {
 }
 
 a:link {
-    color: var(--white);
+color: black;
+text-decoration: none;
 
 }
 
 
 
 div {
-    border: 2px solid var(--white);
+    
 
 
 }
 
 .header {
     grid-area: hd;
-    background-color: var(--black);
+    border : 2px solid black;
 }
 
 
 .foot {
     grid-area: ft;
-    background-color: var(--black);
+    border : 2px solid black;
 }
 
 .block1 {
     grid-area: b1;
-    background-color: var(--black);
+    border : 2px solid black;
 
 }
 
 .block2 {
     grid-area: b2;
-    background-color: var(--black);
+    border : 2px solid black;
     
 }
 
 .block3 {
     grid-area: b3;
-    background-color: var(--black);
-    column-count: 3;
+    border : 2px solid black;
 
 }
 
-.block4 {
-    grid-area: b4;
-    background-color: var(--black);
+
+.nav{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 25px;
+    float: left;
+    font-size: 20px;
 }
+.nav li{
+    position: relative;
+    float: left;
+    padding: 0 15px;
+}
+.nav li::after {
+    position: absolute;
+    width: 2px;
+    right: 0;
+    content: ' ';
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+}
+.nav li:last-child::after {
+   width: 0;
+} 
