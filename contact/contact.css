@@ -1,12 +1,13 @@
 main {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     grid-auto-rows: minmax(235px, auto);
     grid-template-areas:
-        "hd hd hd hd hd hd"
-        "b1 b1 b2 b2 b3 b3"
-        "b1 b1 b2 b2 b3 b3"
-        "ft ft ft ft ft ft";
+        "hd"
+        "b1"
+        "b2"
+        "b3"
+        "ft";
 }
 
 :root {
