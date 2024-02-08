@@ -84,3 +84,7 @@ a:link {
 .nav li:last-child::after {
    width: 0;
 } 
+
+.banner{
+    width: 90%;
+}
