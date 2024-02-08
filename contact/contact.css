@@ -34,18 +34,20 @@ a:link {
 }
 
 .box1 {
+    padding-top: 25px;
     border: 2px solid black;
     grid-area: b1;
-
-}
+}       
 
 .box2 {
+    padding-top: 25px;
     border: 2px solid black;
     grid-area: b2;
 
 }
 
 .box3 {
+    padding-top: 25px;
     border: 2px solid black;
     grid-area: b3;
 
@@ -95,3 +97,9 @@ a:link {
 .banner {
     width: 90%;
 }
+
+.Snap{
+    width: 20%;
+   
+}
+
