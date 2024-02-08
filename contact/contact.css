@@ -10,8 +10,8 @@ main {
 }
 
 :root {
-    /* --white: rgb(255, 255, 255);
-    --black: rgba(0, 0, 0, 0.5); */
+    --white: rgb(255, 255, 255);
+    --black: rgba(0, 0, 0, 0.5);
 }
 
 a:link {
