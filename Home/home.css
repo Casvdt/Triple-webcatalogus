@@ -19,10 +19,6 @@
   font-size: larger;
 }
 
-/* :root {
-  --white: rgb(255, 255, 255);
-  --black: rgba(0, 0, 0, 0.5);
-} */
 
 a:link {
   text-decoration: none;
@@ -31,32 +27,28 @@ a:link {
 
 .header {
   grid-area: hd;
-  background-color: var(--black);
   border: 2px solid black;
 }
 
 .box1 {
     border: 2px solid black;
   grid-area: b1;
-  background-color: var(--black);
 }
 
 .box2 {
     border: 2px solid black;
   grid-area: b2;
-  background-color: var(--black);
 }
 
 .box3 {
     border: 2px solid black;
   grid-area: b3;
-  background-color: var(--black);
 }
+
 
 .footer {
     border: 2px solid black;
   grid-area: ft;
-  background-color: var(--black);
 }
 
 
