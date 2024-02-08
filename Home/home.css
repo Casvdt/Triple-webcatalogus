@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-auto-rows: 100px;
+    text-align: center;
+    font-size: larger;
+    color: black;
+    
+}
+
+div{
+gap: 20px;
+}
+
+.header{
+    display: flex;
+/* grid-column-start: 1;
+grid-column-end: 7;
+grid-row-start: 1;
+grid-row-end: 2; */
+align-items: center;
+}
+
+.header img{
+object-fit: cover;
+width: 400px;
+
+}
