@@ -15,7 +15,6 @@
         "b1"
         "b2"
         "b3"
-        "b4"
         "ft";
     text-align: center;
     font-size: larger;
@@ -52,48 +51,6 @@ a:link {
 
 }
 
-
-.box4 {
-    border: 2px solid black;
-    padding: 20px;
-    grid-area: b4;
-}
-
-.success-message{
-    padding: 10px 20px;
-    font-size: 20px;
-    border-radius: 4px;
-    margin-top: 10px;
-}
-
-.form-group {
-    margin-top: 50px;
-}
-
-.form-group label {
-    display: block;
-    margin-bottom: 5px;
-}
-
-.form-control {
-    width: 100%;
-    padding: 8px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-}
-
-.btn-submit {
-    background-color: #000000;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 4px;
-    margin-top: 40px;
-}
 
 .footer {
     display: flex;
@@ -150,7 +107,6 @@ justify-content: flex-start;
             "hd hd"
             "b1 b2"
             "b3 b3"
-            "b4 b4"
             "ft ft";
     
         text-align: center;
@@ -180,8 +136,7 @@ justify-content: flex-start;
         grid-template-areas:
             "hd hd hd"
             "b1 b2 b3"
-            "b4 b4 b4"
-            "b4 b4 b4"
+            "b1 b2 b3"
             "ft ft ft";
     
         text-align: center;
