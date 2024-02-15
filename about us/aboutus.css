@@ -31,7 +31,6 @@ a:link {
 
 .header {
   grid-area: hd;
-  background-color: var(--black);
   border: 2px solid black;
 }
 
@@ -40,7 +39,6 @@ a:link {
   flex-direction: column;
   border: 2px solid black;
   grid-area: b1;
-  background-color: var(--black);
 }
 
 .box2 {
@@ -48,7 +46,6 @@ a:link {
   flex-direction: column;
   border: 2px solid black;
   grid-area: b2;
-  background-color: var(--black);
 }
 
 .box3 {
@@ -56,7 +53,6 @@ a:link {
   flex-direction: column;
   border: 2px solid black;
   grid-area: b3;
-  background-color: var(--black);
 }
 
 .box1 ul {
@@ -91,7 +87,6 @@ a:link {
   justify-content: flex-start;
   border: 2px solid black;
   grid-area: ft;
-  background-color: var(--black);
 }
 
 
@@ -102,7 +97,7 @@ a:link {
   padding: 0;
   margin: 0;
   margin-top: 25px;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .nav li {
@@ -161,14 +156,27 @@ a:link {
 @media screen and (min-width: 1025px) {
   .container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: minmax(235px, auto);
     grid-template-areas:
-     "hd hd"
-     "b1 b2"
-     "b3 b3"
-     "ft ft";
+     "hd hd hd"
+     "b1 b2 b3"
+     "ft ft ft";
      text-align: center;
      font-size: large;
+  }
+  .banner {
+    width: 50%;
+  }
+
+  .nav {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 25px;
+    font-size: 20px;
   }
 }
