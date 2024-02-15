@@ -23,7 +23,7 @@
 
 .container .btn {
   position: absolute;
-  top: 58%;
+  top: 57%;
   left: 103%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -102,6 +102,44 @@
   text-shadow: 1px 1px 2px #427388; 
 }
 
+.container .btn2 {
+  position: absolute;
+  top: 83%;
+  left: 107%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: 1px solid black;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn2:hover {
+  background-color: black;
+  color: white;
+  
+}
+
+.btn2 {
+  border: 0 solid;
+  box-shadow: inset 0 0 20px rgba(255, 255, 255, 0);
+  outline: 1px solid;
+  outline-color: rgba(255, 255, 255, .5);
+  outline-offset: 0px;
+  text-shadow: none;
+  transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
+} 
+
+.btn2:hover {
+  border: 1px solid;
+  box-shadow: inset 0 0 20px rgba(255, 255, 255, .5), 0 0 20px rgba(255, 255, 255, .2);
+  outline-color: rgba(255, 255, 255, 0);
+  outline-offset: 15px;
+  text-shadow: 1px 1px 2px #427388; 
+}
 
 
 
@@ -130,27 +168,27 @@ a:link {
 
 .header {
   grid-area: hd;
-  border: 2px solid black;
+  border: 2px solid pink;
 }
 
 .box1 {
-  border: 2px solid black;
+  border: 2px solid pink;
   grid-area: b1;
 }
 
 .box2 {
-    border: 2px solid black;
+    border: 2px solid pink;
   grid-area: b2;
 }
 
 .box3 {
-    border: 2px solid black;
+    border: 2px solid pink;
   grid-area: b3;
 }
 
 
 .footer {
-    border: 2px solid black;
+    border: 2px solid pink;
   grid-area: ft;
 }
 
@@ -189,15 +227,18 @@ a:link {
 
 .sportsImage{
   width: 95vw;
+  height: 100%;
 
 }
 
 .musicImage{
   width: 95vw;
+  height: 100%;
 }
 
 .gamingImage{
  width: 95vw;
+ height: 100%;
 }
 
 .footer .banner{
@@ -224,17 +265,77 @@ a:link {
   .nav{
     display: flex;
     justify-content: center;
-    width: 100vw;
+    width: 97vw;
       list-style: none;
       padding: 0;
-      margin: 0;
-      margin-top: 25px;
-      float: left;
       font-size: 20px;
   }
 
   .banner{
     width: 50%;
+  }
+
+  .sportsImage{
+    width: 48vw;
+    height: 100%;
+  }
+
+  .gamingImage{
+    width: 675px;
+    height: 100%;
+
+  }
+
+  .musicImage{
+    width: 48vw;
+    height: 100%;
+  }
+
+  .container .btn {
+    position: absolute;
+    top: 34%;
+    left: 150%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .container .btn1 {
+    position: absolute;
+    top: 34%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+
+
+  .container .btn2 {
+    position: absolute;
+    top: 75%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 5px;
   }
   }
 
@@ -261,15 +362,34 @@ a:link {
         list-style: none;
         padding: 0;
         margin: 0;
-        margin-top: 25px;
-        float: left;
-        font-size: 20px;
+        font-size: 25px;
     }
 
     .banner{
       width: 50%;
-    }
   }
+
+  .footer .banner{
+width: 50%;
+  }
+
+  .sportsImage{
+    width: 35vw;
+    height: 100%;
+  }
+
+  .gamingImage{
+    width: 28vw;
+    height: 100%;
+
+  }
+
+  .musicImage{
+    width: 35vw;
+    height: 100%;
+  }
+
+}
  
 
    
