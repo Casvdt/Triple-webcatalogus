@@ -107,6 +107,7 @@ justify-content: flex-start;
     list-style: none;
     padding: 0;
     margin: 0;
+    width: 97vw;
     margin-top: 25px;
     float: left;
     font-size: 16px;
@@ -162,7 +163,7 @@ justify-content: flex-start;
     .nav {
         display: flex;
         justify-content: center;
-        width: 100vw;
+        width: 97vw;
         list-style: none;
         padding: 0;
         margin: 0;
@@ -192,7 +193,7 @@ justify-content: flex-start;
     .nav {
         display: flex;
         justify-content: center;
-        width: 100vw;
+        width: 97vw;
         list-style: none;
         padding: 0;
         margin: 0;
