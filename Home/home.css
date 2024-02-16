@@ -5,6 +5,12 @@
   color: black;
 }
 
+
+:root{
+  --border-color: rgb(3, 3, 3);
+  --background-color-nav: rgb(255, 255, 255);
+}
+
 .container {
   display: grid;
   position: relative;
@@ -143,36 +149,37 @@ a:link {
 
 .header {
   grid-area: hd;
-  border: 2px solid pink;
+  border: 2px solid var(--border-color);
 }
 
 .box1 {
-  border: 2px solid pink;
+  border: 2px solid black;
   grid-area: b1;
 }
 
 .box2 {
-  border: 2px solid pink;
+  border: 2px solid black;
   grid-area: b2;
 }
 
 .box3 {
-  border: 2px solid pink;
+  border: 2px solid black;
   grid-area: b3;
 }
 
 .footer {
-  border: 2px solid pink;
+  border: 2px solid black;
   grid-area: ft;
 }
 
 .nav {
+  background-color: var(--background-color-nav);
   list-style: none;
   padding: 0;
   margin: 0;
   margin-top: 25px;
   float: left;
-  font-size: 16px;
+  font-size: 13px;
 }
 
 .nav li {
@@ -321,7 +328,7 @@ a:link {
   .nav {
     display: flex;
     justify-content: center;
-    width: 100vw;
+    width: 97vw;
     list-style: none;
     padding: 0;
     margin: 0;
