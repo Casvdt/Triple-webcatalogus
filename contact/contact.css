@@ -36,7 +36,7 @@ a:link {
     padding-top: 25px;
     border: 2px solid black;
     grid-area: b1;
-}       
+}
 
 .box2 {
     padding-top: 25px;
@@ -59,7 +59,7 @@ a:link {
     grid-area: b4;
 }
 
-.success-message{
+.success-message {
     padding: 10px 20px;
     font-size: 20px;
     border-radius: 4px;
@@ -99,7 +99,7 @@ a:link {
     display: flex;
     border: 2px solid black;
     grid-area: ft;
-justify-content: flex-start;
+    justify-content: flex-start;
 }
 
 
@@ -136,12 +136,12 @@ justify-content: flex-start;
     width: 90%;
 }
 
-.Snap{
+.Snap {
     width: 20%;
-   
+
 }
 
-@media screen and (min-width: 700px) and (max-width: 1024px){
+@media screen and (min-width: 700px) and (max-width: 1024px) {
     .container {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -152,10 +152,11 @@ justify-content: flex-start;
             "b3 b3"
             "b4 b4"
             "ft ft";
-    
+
         text-align: center;
         font-size: larger;
     }
+
     .banner {
         width: 50%;
     }
@@ -172,7 +173,8 @@ justify-content: flex-start;
         font-size: 20px;
     }
 }
-@media screen and (min-width: 1025px){
+
+@media screen and (min-width: 1025px) {
     .container {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -183,13 +185,15 @@ justify-content: flex-start;
             "b4 b4 b4"
             "b4 b4 b4"
             "ft ft ft";
-    
+
         text-align: center;
         font-size: larger;
     }
+
     .banner {
         width: 40%;
     }
+
     .nav {
         display: flex;
         justify-content: center;
@@ -202,4 +206,3 @@ justify-content: flex-start;
         font-size: 20px;
     }
 }
-

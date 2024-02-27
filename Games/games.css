@@ -35,7 +35,7 @@ a:link {
     padding-top: 25px;
     border: 2px solid black;
     grid-area: b1;
-}       
+}
 
 .box2 {
     padding-top: 25px;
@@ -56,7 +56,7 @@ a:link {
     display: flex;
     border: 2px solid black;
     grid-area: ft;
-justify-content: flex-start;
+    justify-content: flex-start;
 }
 
 
@@ -93,12 +93,13 @@ justify-content: flex-start;
     width: 90%;
 }
 
-.Snap{
-    width: 20%;
-   
+.Snap {
+    width: 30%;
+
 }
 
-@media screen and (min-width: 700px) and (max-width: 1024px){
+
+@media screen and (min-width: 700px) and (max-width: 1024px) {
     .container {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -108,10 +109,11 @@ justify-content: flex-start;
             "b1 b2"
             "b3 b3"
             "ft ft";
-    
+
         text-align: center;
         font-size: larger;
     }
+
     .banner {
         width: 50%;
     }
@@ -128,7 +130,8 @@ justify-content: flex-start;
         font-size: 20px;
     }
 }
-@media screen and (min-width: 1025px){
+
+@media screen and (min-width: 1025px) {
     .container {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -138,13 +141,23 @@ justify-content: flex-start;
             "b1 b2 b3"
             "b1 b2 b3"
             "ft ft ft";
-    
+
         text-align: center;
         font-size: larger;
     }
+    .epicbtn{
+
+    }
+.Snap{
+    width: 40%;
+}
     .banner {
         width: 40%;
     }
+    .button{
+display: flex;
+    }
+
     .nav {
         display: flex;
         justify-content: center;
@@ -156,5 +169,99 @@ justify-content: flex-start;
         float: left;
         font-size: 20px;
     }
+
+
+.epicbtn {
+    position: absolute;
+    top: 62%;
+    left: 13%;
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  
 }
 
+.epicbtn:hover {
+  background-color: #fff;
+}
+
+.epicbtn:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+.rockstarbtn {
+    position: absolute;
+    top: 62%;
+    left: 46%;
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  
+}
+
+.rockstarbtn:hover {
+  background-color: #fff;
+}
+
+.rockstarbtn:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+  .riotbtn {
+    position: absolute;
+    top: 62%;
+    left: 80%;
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  
+}
+
+.riotbtn:hover {
+  background-color: #fff;
+}
+
+.riotbtn:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+}
