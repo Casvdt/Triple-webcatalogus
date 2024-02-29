@@ -12,6 +12,9 @@ fetch('formula1.json')
         <div class="body">
         <img src = "${myPoep[i].imageUrl}">
         </div>
+        <h4>${myPoep[i].drivers}</h4>
+        <p>${myPoep[i].description}</p>
+
         <div class="cta">
             <a href="">klik hier!</a>
         </div>`
