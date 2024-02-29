@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Mercedes",
+    "brand": "Mercedes",
+    "description": "After two seasons of running a black livery in a nod to the Black Lives Matter movement, Mercedes has returned to its eponymous Silver Arrows color scheme, augmented with a healthy helping of Petronas green on the wings. The result is an instantly recognizable yet understated car and one we'll likely see on the podium a lot this season.",
+    "speedInKMH": 360,
+    "engine": "1.6-liter V6 turbo hybrid",
+    "drivers": ["Lewis Hamilton", "George Russell"],
+    "imageUrl": "https://i.insider.com/6216626645889c0019d1ebee?width=700&format=jpeg&auto=webp"
+  },
+  {
+    "title": "Ferrari",
+    "brand": "Ferrari",
+    "description": "Think racecar, and you think bright red Ferrari. The 2022 Ferrari car, named the F1-75, is a particularly fine example of a red racecar, featuring an all-red body alongside jet black front and rear wings. The mix of colors creates an intimidating car that just looks like it will go fast on track, and will doubtless adorn the bedroom walls of countless young F1 fans around the world.",
+    "speedInKMH": 350,
+    "engine": "0.6-liter V6 turbo hybrid",
+    "drivers": ["Charles Leclerc", "Carlos Sainz"],
+    "imageUrl": "https://i.insider.com/62166234081b260018408571?width=700&format=jpeg&auto=webp"
+  },
+  {
+    "title": "McLaren",
+    "brand": "McLaren",
+    "description": "Twinned with a lighter blue in 2022, this season's McLaren is reminiscent of the wildly popular one-off livery the team ran at the 2021 Monaco Grand Prix as a tribute to long-running sponsor Gulf.",
+    "speedInKMH": 340,
+    "engine": "0.6-liter V6 turbo hybrid",
+    "drivers": ["Lando Norris", "Oscar Piastri"],
+    "imageUrl": "https://i.insider.com/6216627845889c0019d1ebfd?width=700&format=jpeg&auto=webp"
+  }
+]
