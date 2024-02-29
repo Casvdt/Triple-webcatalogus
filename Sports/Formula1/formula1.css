@@ -16,12 +16,8 @@
     gap:10px;
 }
 
-.listing img{
-    max-width: 100%;
-}
-
 .box {
-    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid orange;
     border-radius: 5px;
     text-align: center;
     padding:5px;
@@ -35,14 +31,12 @@
     grid-area: hd;
 }
 
-
+.left-sidebar {
+    grid-area: lsd;
+}
 
 .grid-container {
     grid-area: main;
-}
-
-.left-sidebar {
-    grid-area: lsd;
 }
 
 .right-sidebar {
@@ -53,23 +47,6 @@
     grid-area: ft;
 }
 
-
-
-.listing li {
-    border: 2px solid rgb(0, 0, 0);
-    border-radius: 5px;
-    display:flex; 
-    flex-direction: column;  
-}
-
-.listing li h2 {
-    background-color: rgb(0, 0, 0);
-    color: white;
-    text-align:center;
-    padding: 10px;
-    margin:0px;
-}
-
 .listing {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -77,36 +54,40 @@
     gap:10px;
 }
 
+.listing img {
+max-width: 100%;
+}
+
+.listing li {
+    border: 2px solid orange;
+    border-radius: 5px;
+    display:flex; 
+    flex-direction: column;  
+}
+
+.listing li h2 {
+    background-color: orange;
+    color: white;
+    text-align:center;
+    padding: 10px;
+    margin:0px;
+}
+
 .listing .cta {
     margin-top: auto;
-    border-top: 2px solid rgb(0, 0, 0);
+    border-top: 2px solid orange;
     padding: 10px;
     text-align: center;
 }
 
-.listing .body {
-    padding: 10px;
-}
-
 .listing .cta a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: orange;
     font-size: 30px;
 }
 
-@media (min-width: 768px) and (max-width: 1279px) {
-    .wrapper {
-        display:grid;
-        grid-auto-rows: minmax(60px, auto);
-        grid-template-areas: 
-        "hd hd"
-        "lsd main"
-        "lsd main"
-        "ft ft";
-    } 
-    .right-sidebar {
-        display: none;
-    }
+.listing .body {
+    padding: 10px;
 }
 
 @media (min-width: 1280px) {
@@ -122,4 +103,20 @@
         width:1280px;
         margin: auto;
     } 
+}
+
+
+@media (min-width: 768px) and (max-width: 1279px) {
+    .wrapper {
+        display:grid;
+        grid-auto-rows: minmax(60px, auto);
+        grid-template-areas: 
+        "hd hd"
+        "lsd main"
+        "lsd main"
+        "ft ft";
+    } 
+    .right-sidebar {
+        display: none;
+    }
 }
