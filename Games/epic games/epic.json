@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Rocket League",
+    "description": "Rocket League is een voetbalachtig computerspel, dat gespeeld wordt met in-game voertuigen. Rocket League is ontwikkeld en uitgegeven door Psyonix. In het spel besturen spelers een voertuig waarmee ze moeten proberen doelpunten te scoren op een veld dat overeenkomsten vertoont met een voetbalveld. Het spel is beschikbaar voor Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Microsoft Windows en Linux. Tijdens online wedstrijden is er volledige cross-platform voorzien. Hierdoor kunnen spelers van alle bovenstaande platformen samen spelen.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/rocketleague.jpg",
+    "releaseDate": "7 juli 2015",
+    "price": "Free to Play",
+    "genres": "Sport, race",
+    "platforms": ["Windows", "Unix"]
+  },
+  {
+    "title": "Fortnite",
+    "description": "Fortnite is een online computerspel ontwikkeld door Epic Games dat is uitgebracht in 2017. Het is beschikbaar in drie verschillende gamemodes die dezelfde algemene gameplay en engine delen: Fortnite: Save the World, een co\u00f6peratieve shooter-survivalgame voor maximaal vier spelers om zombie-achtige wezens te bestrijden en objecten te verdedigen met versterkingen die ze kunnen bouwen; Fortnite Battle Royale, een gratis Battle Royale-game waarin maximaal 100 spelers vechten om de laatste persoon te zijn die overeind blijft; en Fortnite Creative, waar spelers volledige vrijheid krijgen om werelden en strijdarena's te cre\u00ebren. Save the World en Battle Royale zijn in 2017 uitgebracht als early access-titels, terwijl Creative is uitgebracht op 6 december 2018. Save the World is beschikbaar voor Windows, macOS, PlayStation 4, Playstation 5 en Xbox One, en Battle Royale en Creative zijn uitgebracht voor al die platformen, en voor Nintendo Switch, iOS en Android.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/fortnite.jpg",
+    "releaseDate": "27 juli 2017",
+    "price": "Free to Play",
+    "genres": "Battle royale, third-person shooter",
+    "platforms": ["Windows", "MacOS"]
+  },
+  {
+    "title": "Fall Guys",
+    "description": "Fall Guys: Ultimate Knockout is een battle royale platformspel ontwikkeld door Mediatonic en gepubliceerd door Devolver Digital. Het computerspel is ge\u00efnspireerd door spelshows zoals Takeshi's Castle, It's a Knockout en Wipeout. In juni 2019 werd het aangekondigd op E3. Op 4 augustus 2020 werd het uitgebracht voor Microsoft Windows en de PlayStation 4. Binnen een maand werd het spel zeven miljoen keer verkocht op Steam en werd het de meeste gedownloade PlayStation Plus-game ooit. Zodoende was het in 2020 het spel van de zomer.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/fallguys.jpg",
+    "releaseDate": "4 augustus 2020",
+    "price": "Free to Play",
+    "genres": "Battle royale, platformer",
+    "platforms": ["Windows"]
+  }
+]
