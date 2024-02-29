@@ -9,13 +9,19 @@
     display:grid;
     grid-template-areas: 
     "hd"
-    "lsd"
     "main"
-    "rsd"
+    "main"
+    "main"
     "ft";
     gap:10px;
 }
-
+.epicgamesbtn{
+background-color: white;
+width: 1300px;
+height: 60px;
+text-align: center;
+font-size: 20px;
+}
 .listing img{
     max-width: 100%;
 }
@@ -77,22 +83,10 @@
     gap:10px;
 }
 
-.listing .cta {
-    margin-top: auto;
-    border-top: 2px solid rgb(0, 0, 0);
-    padding: 10px;
-    text-align: center;
-}
-
 .listing .body {
     padding: 10px;
 }
 
-.listing .cta a {
-    text-decoration: none;
-    color: rgb(0, 0, 0);
-    font-size: 30px;
-}
 
 @media (min-width: 768px) and (max-width: 1279px) {
     .wrapper {
@@ -100,8 +94,8 @@
         grid-auto-rows: minmax(60px, auto);
         grid-template-areas: 
         "hd hd"
-        "lsd main"
-        "lsd main"
+        "main main"
+        "main main"
         "ft ft";
     } 
     .right-sidebar {
@@ -115,8 +109,8 @@
         grid-auto-rows: minmax(60px, auto);
         grid-template-areas: 
         "hd hd hd"
-        "lsd main rsd"
-        "lsd main rsd"
+        "main main main"
+        "main main main"
         "ft ft ft";
         
         width:1280px;
