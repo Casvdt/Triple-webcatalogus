@@ -9,13 +9,10 @@ for (let i = 0; i < epicgames.length; i++) {
     <div class="body">
     <img src = "${epicgames[i].img}"
         </div>
-        <h3>${epicgames[i].description}</h3>
-        <h4>Price:${epicgames[i].price}</h4>
+        <p>${epicgames[i].description}</p>
+        <p>Price:${epicgames[i].price}</p>
         <p>genre:${epicgames[i].genres}</p>
         <p>releaseDate:${epicgames[i].releaseDate}</p>
-    <div class="cta">
-        <a href="">klik hier!</a>
-    </div>
     </li>
     `
     }
