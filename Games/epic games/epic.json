@@ -6,7 +6,8 @@
     "releaseDate": "7 juli 2015",
     "price": "Free to Play",
     "genres": "Sport, race",
-    "platforms": ["Windows", "Unix"]
+    "platforms": ["Windows", "Unix"],
+    "url": "https://www.rocketleague.com/"
   },
   {
     "title": "Fortnite",
@@ -15,7 +16,8 @@
     "releaseDate": "27 juli 2017",
     "price": "Free to Play",
     "genres": "Battle royale, third-person shooter",
-    "platforms": ["Windows", "MacOS"]
+    "platforms": ["Windows", "MacOS"],
+    "url": "https://www.fortnite.com/?lang=en-US"
   },
   {
     "title": "Fall Guys",
@@ -24,6 +26,17 @@
     "releaseDate": "4 augustus 2020",
     "price": "Free to Play",
     "genres": "Battle royale, platformer",
-    "platforms": ["Windows"]
+    "platforms": ["Windows"],
+    "url": "https://www.fallguys.com/"
+  },
+  {
+    "title": "Dying Light",
+    "description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected.",
+    "img": "https://static.wikia.nocookie.net/dyinglight/images/8/8e/Dying-Light-cover.jpg/revision/latest?cb=20200206150358",
+    "releaseDate": "4 augustus 2020",
+    "price": "Free to Play",
+    "genres": "Battle royale, platformer",
+    "platforms": ["Windows"],
+    "url": "https://www.fallguys.com/"
   }
 ]
