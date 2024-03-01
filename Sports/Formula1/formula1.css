@@ -17,7 +17,9 @@
 }
 
 .box {
-    border: 2px solid orange;
+    color: white;
+    background-color: red;
+    border: 2px solid red;
     border-radius: 5px;
     text-align: center;
     padding:5px;
@@ -59,14 +61,14 @@ max-width: 100%;
 }
 
 .listing li {
-    border: 2px solid orange;
+    border: 2px solid red;
     border-radius: 5px;
     display:flex; 
     flex-direction: column;  
 }
 
 .listing li h2 {
-    background-color: orange;
+    background-color: red;
     color: white;
     text-align:center;
     padding: 10px;
@@ -75,20 +77,63 @@ max-width: 100%;
 
 .listing .cta {
     margin-top: auto;
-    border-top: 2px solid orange;
+    border-top: 2px solid red;
     padding: 10px;
     text-align: center;
 }
 
 .listing .cta a {
     text-decoration: none;
-    color: orange;
+    color: red;
     font-size: 30px;
 }
 
 .listing .body {
     padding: 10px;
 }
+
+.wrapper .btn {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .wrapper .btn:hover {
+    background-color: black;
+    color: white;
+  }
+  
+  .btn {
+    border: 0 solid;
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, 0);
+    outline: 1px solid;
+    outline-color: rgba(255, 255, 255, 0.5);
+    outline-offset: 0px;
+    text-shadow: none;
+    transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
+  }
+  
+  .btn:hover {
+    border: 1px solid;
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, 0.5),
+      0 0 20px rgba(255, 255, 255, 0.2);
+    outline-color: rgba(255, 255, 255, 0);
+    outline-offset: 15px;
+    text-shadow: 1px 1px 2px #427388;
+  }
+
+
+
+
 
 @media (min-width: 1280px) {
     .wrapper {
