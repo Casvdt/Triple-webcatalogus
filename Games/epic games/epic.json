@@ -1,7 +1,7 @@
 [
   {
     "title": "Rocket League",
-    "description": "Rocket League is een voetbalachtig computerspel, dat gespeeld wordt met in-game voertuigen. Rocket League is ontwikkeld en uitgegeven door Psyonix. In het spel besturen spelers een voertuig waarmee ze moeten proberen doelpunten te scoren op een veld dat overeenkomsten vertoont met een voetbalveld. Het spel is beschikbaar voor Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Microsoft Windows en Linux. Tijdens online wedstrijden is er volledige cross-platform voorzien. Hierdoor kunnen spelers van alle bovenstaande platformen samen spelen.",
+    "description": "Rocket League is a soccer-like computer game played with in-game vehicles. Rocket League was developed and published by Psyonix. In the game, players control a vehicle with which they must try to score goals on a pitch that bears similarities to a soccer field. The game is available for Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Microsoft Windows and Linux. During online matches, full cross-platform is provided. This allows players from all of the above platforms to play together.",
     "img": "https://mbo-sd.nl/img/p03/gaming/rocketleague.jpg",
     "releaseDate": "7 juli 2015",
     "price": "Free to Play",
@@ -11,7 +11,7 @@
   },
   {
     "title": "Fortnite",
-    "description": "Fortnite is een online computerspel ontwikkeld door Epic Games dat is uitgebracht in 2017. Het is beschikbaar in drie verschillende gamemodes die dezelfde algemene gameplay en engine delen: Fortnite: Save the World, een co\u00f6peratieve shooter-survivalgame voor maximaal vier spelers om zombie-achtige wezens te bestrijden en objecten te verdedigen met versterkingen die ze kunnen bouwen; Fortnite Battle Royale, een gratis Battle Royale-game waarin maximaal 100 spelers vechten om de laatste persoon te zijn die overeind blijft; en Fortnite Creative, waar spelers volledige vrijheid krijgen om werelden en strijdarena's te cre\u00ebren. Save the World en Battle Royale zijn in 2017 uitgebracht als early access-titels, terwijl Creative is uitgebracht op 6 december 2018. Save the World is beschikbaar voor Windows, macOS, PlayStation 4, Playstation 5 en Xbox One, en Battle Royale en Creative zijn uitgebracht voor al die platformen, en voor Nintendo Switch, iOS en Android.",
+    "description": "Fortnite is an online computer game developed by Epic Games that was released in 2017. It is available in three different gamemodes that share the same general gameplay and engine: Fortnite: Save the World, a cooperative shooter-survival game for up to four players to fight zombie-like creatures and defend objects with fortifications they can build; Fortnite Battle Royale, a free Battle Royale game in which up to 100 players fight to be the last person standing; and Fortnite Creative, where players are given complete freedom to create worlds and battle arenas. Save the World and Battle Royale were released as early access titles in 2017, while Creative was released on Dec. 6, 2018. Save the World is available for Windows, macOS, PlayStation 4, Playstation 5 and Xbox One, and Battle Royale and Creative were released for all those platforms, as well as for Nintendo Switch, iOS and Android.",
     "img": "https://mbo-sd.nl/img/p03/gaming/fortnite.jpg",
     "releaseDate": "27 juli 2017",
     "price": "Free to Play",
@@ -21,7 +21,7 @@
   },
   {
     "title": "Fall Guys",
-    "description": "Fall Guys: Ultimate Knockout is een battle royale platformspel ontwikkeld door Mediatonic en gepubliceerd door Devolver Digital. Het computerspel is ge\u00efnspireerd door spelshows zoals Takeshi's Castle, It's a Knockout en Wipeout. In juni 2019 werd het aangekondigd op E3. Op 4 augustus 2020 werd het uitgebracht voor Microsoft Windows en de PlayStation 4. Binnen een maand werd het spel zeven miljoen keer verkocht op Steam en werd het de meeste gedownloade PlayStation Plus-game ooit. Zodoende was het in 2020 het spel van de zomer.",
+    "description": "Fall Guys: Fall Guys: Ultimate Knockout is a battle royale platform game developed by Mediatonic and published by Devolver Digital. The computer game is inspired by game shows such as Takeshi's Castle, It's a Knockout and Wipeout. In June 2019, it was announced at E3. On Aug. 4, 2020, it was released for Microsoft Windows and the PlayStation 4. Within a month, the game sold seven million copies on Steam and became the most downloaded PlayStation Plus game ever. As such, it was the game of the summer in 2020.",
     "img": "https://mbo-sd.nl/img/p03/gaming/fallguys.jpg",
     "releaseDate": "4 augustus 2020",
     "price": "Free to Play",
@@ -31,12 +31,12 @@
   },
   {
     "title": "Dying Light",
-    "description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected.",
-    "img": "https://static.wikia.nocookie.net/dyinglight/images/8/8e/Dying-Light-cover.jpg/revision/latest?cb=20200206150358",
+    "description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected. The game also has an awesome story mode and a bunch of side quests.",
+    "img": "https://exputer.com/wp-content/uploads/2021/07/Dying-light.jpg",
     "releaseDate": "4 augustus 2020",
     "price": "Free to Play",
     "genres": "Battle royale, platformer",
     "platforms": ["Windows"],
-    "url": "https://www.fallguys.com/"
+    "url": "https://pilgrimoutpost.techlandgg.com/"
   }
 ]
