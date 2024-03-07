@@ -41,6 +41,19 @@ font-size: 20px;
     grid-area: hd;
 }
 
+.listing .cta {
+    margin-top: auto;
+    border-top: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+}
+
+.listing .cta a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
 
 
 .grid-container {

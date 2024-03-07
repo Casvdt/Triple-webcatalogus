@@ -13,8 +13,10 @@ for (let i = 0; i < epicgames.length; i++) {
         <p>Price:${epicgames[i].price}</p>
         <p>genre:${epicgames[i].genres}</p>
         <p>releaseDate:${epicgames[i].releaseDate}</p>
-    </li>
-    `
+        <div class="cta">
+        <a href="${epicgames[i].url}">klik hier!</a>
+    </div>
+    </li>`
     }
     
 }
