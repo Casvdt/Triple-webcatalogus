@@ -32,6 +32,9 @@
 .header {
     grid-area: hd;
 }
+.tekst{
+    margin-left: 4px;
+}
 
 .left-sidebar {
     grid-area: lsd;
@@ -58,7 +61,7 @@
 }
 
 .listing img {
-max-width: 104%;
+max-width: 100%;
 }
 
 .listing li {
@@ -97,7 +100,7 @@ max-width: 104%;
     height: 60px;
     width: 1280px;
     position: absolute;
-    top: 134.5%;
+    top: 121.6%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -135,8 +138,7 @@ max-width: 104%;
   }
 
 .imageUrl{
-width: 5000px;   
-height: 150px;
+list-style: none;
 }
 
 .headerImg{
