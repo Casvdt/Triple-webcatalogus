@@ -56,6 +56,13 @@
     "description": "Formula 1 team",
     "drivers":["Pierre Gasly", "Esteban Ocon"],
     "imageUrl": "https://th.bing.com/th/id/OIP.2RlvqcR9ew8Uh9wSwqaYpAHaDf?rs=1&pid=ImgDetMain"
+  },
+  {
+    "title": "Haas F1 Team",
+    "brand": "Haas F1 Team",
+    "description": "Formula 1 team",
+    "drivers":["Nico Hulkenberg", "Kevin Magnussen"],
+    "imageUrl": "https://th.bing.com/th/id/OIP.2RlvqcR9ew8Uh9wSwqaYpAHaDf?rs=1&pid=ImgDetMain"
   }
   
 ]
