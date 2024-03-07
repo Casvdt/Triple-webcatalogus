@@ -50,6 +50,7 @@
 }
 
 .listing {
+    font-size: 15px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     list-style: none;
@@ -57,7 +58,7 @@
 }
 
 .listing img {
-max-width: 100%;
+max-width: 104%;
 }
 
 .listing li {
@@ -93,12 +94,14 @@ max-width: 100%;
 }
 
 .wrapper .btn {
+    height: 60px;
+    width: 1280px;
     position: absolute;
-    top: 85%;
+    top: 134.5%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    background-color: rgb(0, 0, 0);
+    background-color: red;
     color: white;
     font-size: 16px;
     padding: 12px 24px;
@@ -108,7 +111,7 @@ max-width: 100%;
   }
   
   .wrapper .btn:hover {
-    background-color: black;
+    background-color: darkred;
     color: white;
   }
   
@@ -131,8 +134,14 @@ max-width: 100%;
     text-shadow: 1px 1px 2px #427388;
   }
 
+.imageUrl{
+width: 5000px;   
+height: 150px;
+}
 
-
+.headerImg{
+    width: 200px;
+}
 
 
 @media (min-width: 1280px) {

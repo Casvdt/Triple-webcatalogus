@@ -10,13 +10,13 @@ fetch('formula1.json')
         listContainer.innerHTML += ` <li>
         <h2>${myPoep[i].title}</h2>
         <div class="body">
-        <img src = "${myPoep[i].imageUrl}">
+        <img class="imageUrl" src = "${myPoep[i].imageUrl}">
         </div>
         <h4>${myPoep[i].drivers}</h4>
         <p>${myPoep[i].description}</p>
 
         <div class="cta">
-            <a href="">klik hier!</a>
+            <a href="${myPoep[i].websiteUrl}">klik hier!</a>
         </div>`
         
     }
