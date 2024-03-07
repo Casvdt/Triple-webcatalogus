@@ -17,7 +17,8 @@ fetch('formula1.json')
 
         <div class="cta">
             <a href="${myPoep[i].websiteUrl}">klik hier!</a>
-        </div>`
+        </div>
+        </li>`
         
     }
     }
