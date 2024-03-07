@@ -1,22 +1,27 @@
-fetch("epic.json")
+fetch('epic.json')
     .then(response => response.json())
-    .then(jsonData => epic(jsonData));
-function epic(epicgames) {
-    const listcontainer = document.querySelector(".listing");
-for (let i = 0; i < epicgames.length; i++) {
-    listcontainer.innerHTML += `<li>
-    <h2>${epicgames[i].title}</h2>
-    <div class="body">
-    <img src = "${epicgames[i].img}"
-        </div>
-        <p>${epicgames[i].description}</p>
-        <p>Price:${epicgames[i].price}</p>
-        <p>genre:${epicgames[i].genres}</p>
-        <p>releaseDate:${epicgames[i].releaseDate}</p>
-        <div class="cta">
-        <a href="${epicgames[i].url}">klik hier!</a>
-    </div>
-    </li>`
-    }
+    .then(jsonData => poep(jsonData));
+
+    function poep(myPoep) {
+
+        const listContainer = document.querySelector(".listing");
     
-}
+        for (let i = 0; i < myPoep.length; i++) {
+        listContainer.innerHTML += ` <li>
+        <h2>${myPoep[i].title}</h2>
+        <div class="body">
+        <img class="imageUrl" src = "${myPoep[i].img}">
+        </div>
+        <p>${myPoep[i].description}</p>
+        <p>Price:${myPoep[i].price}</p>
+        <p>genre:${myPoep[i].genres}</p>
+        <p>releaseDate:${myPoep[i].releaseDate}</p>
+
+
+
+        <div class="cta">
+            <a href="${myPoep[i].websiteUrl}">klik hier!</a>
+        </div>`
+        
+    }
+    }
