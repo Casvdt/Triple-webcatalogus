@@ -71,6 +71,7 @@ max-width: 100%;
     flex-direction: column;  
 }
 
+
 .listing li h2 {
     background-color: rgb(0, 0, 0);
     color: white;
