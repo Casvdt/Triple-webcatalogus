@@ -3,7 +3,10 @@
     "title": "Mercedes",
     "brand": "Mercedes",
     "description": "After two seasons of running a black livery in a nod to the Black Lives Matter movement, Mercedes has returned to its eponymous Silver Arrows color scheme, augmented with a healthy helping of Petronas green on the wings. The result is an instantly recognizable yet understated car and one we'll likely see on the podium a lot this season.",
-    "drivers": ["Lewis Hamilton", "George Russell"],
+    "driver1": ["Lewis Hamilton"], 
+    "driver2": ["George Russell"], 
+    "firstDriverImg": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/hamilton.jpg.img.1920.medium.jpg/1708362076344.jpg",
+    "secondDriverImg":"https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/russell.jpg.img.1920.medium.jpg/1708362100444.jpg",
     "imageUrl": "https://i.insider.com/6216626645889c0019d1ebee?width=700&format=jpeg&auto=webp",
     "websiteUrl": "https://www.mercedesamgf1.com/"
   },
@@ -11,7 +14,10 @@
     "title": "Ferrari",
     "brand": "Ferrari",
     "description": "Think racecar, and you think bright red Ferrari. The 2022 Ferrari car, named the F1-75, is a particularly fine example of a red racecar, featuring an all-red body alongside jet black front and rear wings. The mix of colors creates an intimidating car that just looks like it will go fast on track, and will doubtless adorn the bedroom walls of countless young F1 fans around the world.",
-    "drivers": ["Charles Leclerc", "Carlos Sainz"],
+    "driver1": ["Charles Leclerc"], 
+    "driver2": ["Carlos Sainz"], 
+    "firstDriverImg": "https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/leclerc.jpg.img.1920.medium.jpg/1708344558637.jpg",
+    "secondDriverImg":"https://media.formula1.com/content/dam/fom-website/drivers/2024Drivers/sainz.jpg.img.1920.medium.jpg/1708344524647.jpg",
     "imageUrl": "https://i.insider.com/62166234081b260018408571?width=700&format=jpeg&auto=webp",
     "websiteUrl":"https://www.ferrari.com/en-EN/formula1"
   },
@@ -20,6 +26,8 @@
     "brand": "McLaren",
     "description": "Twinned with a lighter blue in 2022, this season's McLaren is reminiscent of the wildly popular one-off livery the team ran at the 2021 Monaco Grand Prix as a tribute to long-running sponsor Gulf.",
     "drivers": ["Lando Norris", "Oscar Piastri"],
+    "driver1": ["Charles Leclerc"], 
+    "driver2": ["Carlos Sainz"], 
     "imageUrl": "https://i.insider.com/6216627845889c0019d1ebfd?width=700&format=jpeg&auto=webp"
   },
   {
@@ -61,9 +69,16 @@
     "title": "Haas F1 Team",
     "brand": "Haas F1 Team",
     "description": "Formula 1 team",
-    "drivers":["Nico Hulkenberg", "Kevin Magnussen"],
-    "imageUrl": "https://th.bing.com/th/id/OIP.2RlvqcR9ew8Uh9wSwqaYpAHaDf?rs=1&pid=ImgDetMain"
+    "drivers":["Nico Hulkenberg - Kevin Magnussen"],
+    "imageUrl": "https://cdn.vox-cdn.com/thumbor/LmETmUe3dkfcbHBwNIhM2bXOSPM=/0x0:4632x3088/1200x800/filters:focal(1793x652:2533x1392)/cdn.vox-cdn.com/uploads/chorus_image/image/73167532/2032443536.0.jpg"
+  },
+  {
+    "title": "Williams Racing",
+    "brand": "Williams Racing",
+    "description": "Formula 1 team",
+    "drivers":["Alexander Albon", "Logan Sargeant"],
+    "imageUrl": "https://cdn-5.motorsport.com/images/amp/2jXaw3z6/s1000/logan-sargeant-williams-fw45-1.jpg"
   }
-  
+
 ]
 

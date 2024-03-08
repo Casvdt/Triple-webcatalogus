@@ -50,7 +50,7 @@
 }
 
 .listing {
-    font-size: 14px;
+    font-size: 13px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     list-style: none;
@@ -58,7 +58,7 @@
 }
 
 .listing img {
-max-width: 104%;
+max-width: 100%;
 }
 
 .listing li {
@@ -137,6 +137,12 @@ max-width: 104%;
 .imageUrl{
 width: 5000px;   
 height: 150px;
+margin-bottom: 10px;
+border-radius: 5px;
+}
+
+.tekst{
+margin-left: 6px;
 }
 
 .headerImg{
@@ -147,6 +153,18 @@ height: 150px;
     margin-left: px;
     width: 400px;
 }
+
+.drivers{
+    display: flex;
+    flex-direction: row;
+}
+
+.drivers img{
+    width: 107px;
+    border: 2px solid black;
+    border-radius: 100%;
+}
+
 
 
 @media (min-width: 1280px) {
