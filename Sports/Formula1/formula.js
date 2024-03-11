@@ -16,7 +16,7 @@ function poep(myPoep) {
         <img class="imageUrl1" src = "${myPoep[i].secondDriverImg}">
         </div>
         </div>
-        <h4 class="tekst">${myPoep[i].drivers}</h4>
+        <h4 class="tekst1">${myPoep[i].driver1 + " -- " + myPoep[i].driver2}</h4>
         <p class="tekst">${myPoep[i].description}</p>
 
         <div class="cta">
