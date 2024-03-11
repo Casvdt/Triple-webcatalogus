@@ -16,6 +16,12 @@
     gap:10px;
 }
 
+.btn1 h3{
+display: flex;
+justify-content: center;
+margin-top: 8px;
+}
+
 .box {
     color: white;
     background-color: red;
@@ -94,11 +100,17 @@ max-width: 100%;
     padding: 10px;
 }
 
+.btn h3{
+margin-top: 10px;
+}
+
+
+
 .wrapper .btn {
     height: 60px;
     width: 1280px;
     position: absolute;
-    top: 146.8%;
+    top: 146.6%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
