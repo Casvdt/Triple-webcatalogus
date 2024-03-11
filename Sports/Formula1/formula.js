@@ -20,7 +20,7 @@ function poep(myPoep) {
         <p class="tekst">${myPoep[i].description}</p>
 
         <div class="cta">
-            <a href="${myPoep[i].websiteUrl}">klik hier!</a>
+            <a href="${myPoep[i].websiteUrl}">Click here for the website!</a>
         </div>
         </li>`
 

@@ -78,6 +78,7 @@ max-width: 100%;
 
 .listing .cta {
     margin-top: auto;
+    background-color: red;
     border-top: 2px solid red;
     padding: 10px;
     text-align: center;
@@ -85,8 +86,8 @@ max-width: 100%;
 
 .listing .cta a {
     text-decoration: none;
-    color: red;
-    font-size: 30px;
+    color: white;
+    font-size: 18px;
 }
 
 .listing .body {
@@ -97,13 +98,15 @@ max-width: 100%;
     height: 60px;
     width: 1280px;
     position: absolute;
-    top: 134.5%;
+    top: 146.8%;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: red;
     color: black;
     font-size: 16px;
+    display: flex;
+    justify-content: center;
     padding: 12px 24px;
     border: 1px solid black;
     cursor: pointer;
