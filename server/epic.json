@@ -34,9 +34,20 @@
     "description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected. The game also has an awesome story mode and a bunch of side quests.",
     "img": "https://exputer.com/wp-content/uploads/2021/07/Dying-light.jpg",
     "releaseDate": "4 augustus 2020",
-    "price": "Free to Play",
+    "price": "Dying light 1:$29.99"  ,
     "genres": "Battle royale, platformer",
     "platforms": ["Windows"],
     "url": "https://dyinglightgame.com/"
+  },
+  {
+    "title": "Genshin Impact",
+    "description": "Genshin Impact, developed by miHoYo, was released on September 28, 2020. It is an expansive open-world action role-playing game that captivates players with its visually stunning art style, intricate elemental combat system, and immersive exploration of the fantastical realm of Teyvat, all wrapped in gacha mechanics where players collect characters and weapons. While miHoYo created the game, it also saw significant support from Epic Games, especially in terms of distribution and platform availability.",
+    "img": "",
+    "releaseDate": " 4 augustus 2020",
+    "price": "Free to Play",
+    "genres": "action role-playing game (ARPG)",
+    "platforms": ["PC, PlayStation, iOS, and Android."],
+    "url": "https://dyinglightgame.com/"
   }
 ]
+
