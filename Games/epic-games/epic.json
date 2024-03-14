@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Rocket League",
+    "description": "Rocket League, developed by Psyonix, was released on July 7, 2015. In May 2019, Epic Games acquired Psyonix. It's an exhilarating blend of soccer and vehicular mayhem, where players control rocket-powered cars to compete in fast-paced matches, scoring goals and performing jaw-dropping aerial stunts while navigating dynamic arenas filled with ramps, boosts, and strategic obstacles. It is available on platforms including PC, PlayStation, Xbox, Nintendo Switch, and mobile devices.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/rocketleague.jpg",
+    "releaseDate": "7 juli 2015",
+    "price": "Free to Play",
+    "genres": "Sport, race",
+    "platforms": ["Windows", "Unix"],
+    "url": "https://www.rocketleague.com/"
+  },
+  {
+    "title": "Fortnite",
+    "description": "Fortnite, released on July 25, 2017, is a massively popular online multiplayer game that blends battle royale gameplay with building mechanics, where players fight to be the last one standing on a shrinking island while scavenging for resources, crafting structures, and engaging in intense combat encounters. Developed by Epic Games, it is available on platforms including PC, PlayStation, Xbox, Nintendo Switch, and mobile devices.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/fortnite.jpg",
+    "releaseDate": "27 juli 2017",
+    "price": "Free to Play",
+    "genres": "Battle royale, third-person shooter",
+    "platforms": ["Windows", "MacOS"],
+    "url": "https://www.fortnite.com/?lang=en-US"
+  },
+  {
+    "title": "Fall Guys",
+    "description":"Fall Guys, released on August 4, 2020, is a hilariously chaotic multiplayer game where adorable bean-shaped characters navigate through a series of outrageous obstacle courses, contending against each other in a frenzy of wacky challenges until only one remains victorious. Developed by Mediatonic and published by Epic Games, it is available on platforms including PC, PlayStation 4, and Xbox One.",
+    "img": "https://mbo-sd.nl/img/p03/gaming/fallguys.jpg",
+    "releaseDate": "4 augustus 2020",
+    "price": "Free to Play",
+    "genres": "Battle royale, platformer",
+    "platforms": ["Windows"],
+    "url": "https://www.fallguys.com/"
+  },
+  {
+    "title": "Dying Light",
+    "description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected. The game also has an awesome story mode and a bunch of side quests.",
+    "img": "https://exputer.com/wp-content/uploads/2021/07/Dying-light.jpg",
+    "releaseDate": "4 augustus 2020",
+    "price": "Dying light 1:$29.99"  ,
+    "genres": "Battle royale, platformer",
+    "platforms": ["Windows"],
+    "url": "https://dyinglightgame.com/"
+  },
+  {
+    "title": "Genshin Impact",
+    "description": "Genshin Impact, developed by miHoYo, was released on September 28, 2020. It is an expansive open-world action role-playing game that captivates players with its visually stunning art style, intricate elemental combat system, and immersive exploration of the fantastical realm of Teyvat, all wrapped in gacha mechanics where players collect characters and weapons. While miHoYo created the game, it also saw significant support from Epic Games, especially in terms of distribution and platform availability.",
+    "img": "",
+    "releaseDate": " 4 augustus 2020",
+    "price": "Free to Play",
+    "genres": "action role-playing game (ARPG)",
+    "platforms": ["PC, PlayStation, iOS, and Android."],
+    "url": "https://dyinglightgame.com/"
+  }
+]
+
