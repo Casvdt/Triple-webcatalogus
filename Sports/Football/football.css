@@ -29,8 +29,8 @@ margin-top: 8px;
 
 .box {
     color: white;
-    background-color: red;
-    border: 2px solid red;
+    background-color: green;
+    border: 2px solid green;
     border-radius: 5px;
     text-align: center;
     padding:5px;
@@ -73,14 +73,14 @@ max-width: 100%;
 }
 
 .listing li {
-    border: 2px solid red;
+    border: 2px solid green;
     border-radius: 5px;
     display:flex; 
     flex-direction: column;  
 }
 
 .listing li h2 {
-    background-color: red;
+    background-color: green;
     color: white;
     text-align:center;
     padding: 10px;
@@ -89,8 +89,8 @@ max-width: 100%;
 
 .listing .cta {
     margin-top: auto;
-    background-color: red;
-    border-top: 2px solid red;
+    background-color: green;
+    border-top: 2px solid green;
     padding: 10px;
     text-align: center;
 }
@@ -118,7 +118,7 @@ margin-top: 10px;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%); */
-    background-color: red;
+    background-color: green;
     color: black;
     font-size: 16px;
     display: flex;
@@ -130,7 +130,7 @@ margin-top: 10px;
   }
   
   .wrapper .btn:hover {
-    background-color: darkred;
+    background-color: darkgreen;
     color: white;
   }
   
@@ -161,7 +161,7 @@ margin-top: 10px;
     left: 25%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    background-color: red;
+    background-color: green;
     color: black;
     font-size: 16px;
     padding: 12px 24px;
@@ -171,7 +171,7 @@ margin-top: 10px;
   }
   
   .wrapper .btn1:hover {
-    background-color: darkred;
+    background-color: darkgreen;
     color: white;
   }
   
@@ -195,11 +195,11 @@ margin-top: 10px;
   }
 
 .imageUrl{
-width: 5000px;   
-height: 150px;
+max-height: 200px;
+max-width: 200px; 
 margin-bottom: 10px;
-border-radius: 5px;
 }
+
 
 .tekst{
 margin-left: 4px;
@@ -257,8 +257,8 @@ justify-content: space-evenly;
         grid-auto-rows: minmax(60px, auto);
         grid-template-areas: 
         "hd hd"
-        "lsd main"
-        "lsd main"
+        "main main"
+        "main main"
         "ft ft";
     } 
     .right-sidebar {

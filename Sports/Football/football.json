@@ -1,13 +1,15 @@
 [
             {
                 "competition_name": "Premier League",
-               "popular_team": "Ajax Amsterdam",
-                "team_stadium": "Johan Cruyff Arena"
+               "popular_team": "Manchester City",
+                "team_stadium": "Etihad Stadium",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1024px-Manchester_City_FC_badge.svg.png"
             },
             {
                 "competition_name": "La liga",
                "popular_team": "Ajax Amsterdam",
-                "team_stadium": "Johan Cruyff Arena"
+                "team_stadium": "Johan Cruyff Arena",
+                "imageUrl":"https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png"
             },
             {
                 "competition_name": "Serie A",
@@ -30,22 +32,22 @@
                  "team_stadium": "Johan Cruyff Arena"
             },
             {
-                "competition_name": "Premier League",
+                "competition_name": "Liga Portugal",
                "popular_team": "Ajax Amsterdam",
                 "team_stadium": "Johan Cruyff Arena"
             },
             {
-                "competition_name": "Premier League",
+                "competition_name": "Belgium Pro League",
                "popular_team": "Ajax Amsterdam",
                 "team_stadium": "Johan Cruyff Arena"
             },
             {
-                "competition_name": "Premier League",
+                "competition_name": "Turkish Süper Lig",
                 "popular_team": "Ajax Amsterdam",
                  "team_stadium": "Johan Cruyff Arena"
             },
             {
-                "competition_name": "Premier League",
+                "competition_name": "Scottish Premiership",
                "popular_team": "Ajax Amsterdam",
                 "team_stadium": "Johan Cruyff Arena"
             }

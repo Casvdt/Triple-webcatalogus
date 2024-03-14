@@ -11,12 +11,12 @@ function poep(myPoep) {
         <div class="body">
         <img class="imageUrl" src = "${myPoep[i].imageUrl}">
         <div class="drivers">
-        <img class="imageUrl1" src = "${myPoep[i].ff}">
+        <img class="imageUrl1" src = "${myPoep[i].p}">
         <img class="imageUrl1" src = "${myPoep[i].secondDriverImg}">
         </div>
         </div>
-         <h4 class="tekst1">${myPoep[i].driver1 + " -- " + myPoep[i].driver2}</h4>
-        <p class="tekst">${myPoep[i].description}</p>
+         <h4 class="tekst1">${myPoep[i].popular_team}</h4>
+        <p class="tekst">${myPoep[i].team_stadium}</p>
         <div class="cta">
             <a href="${myPoep[i].websiteUrl}">Click here for the website!</a>
         </div>
