@@ -1,4 +1,4 @@
-fetch('formula1.json')
+fetch('http://localhost:3001/formula1')
     .then(response => response.json())
     .then(jsonData => poep(jsonData));
 

@@ -1,4 +1,4 @@
-fetch('epic.json')
+fetch('http://localhost:3001/epicgames')
     .then(response => response.json())
     .then(jsonData => poep(jsonData));
 
