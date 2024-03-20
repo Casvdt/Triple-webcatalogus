@@ -14,17 +14,17 @@
   },
   {
     "competition_name": "Serie A",
-    "popular_team": "Ajax Amsterdam",
+    "popular_team": "Juventus",
     "team_stadium": "Johan Cruyff Arena"
   },
   {
     "competition_name": "Bundesliga",
-    "popular_team": "Ajax Amsterdam",
+    "popular_team": "Bayern München",
     "team_stadium": "Johan Cruyff Arena"
   },
   {
     "competition_name": "Ligue 1",
-    "popular_team": "Ajax Amsterdam",
+    "popular_team": "PSG",
     "team_stadium": "Johan Cruyff Arena"
   },
   {
@@ -34,22 +34,22 @@
   },
   {
     "competition_name": "Liga Portugal",
-    "popular_team": "Ajax Amsterdam",
+    "popular_team": "Benfica",
     "team_stadium": "Johan Cruyff Arena"
   },
   {
     "competition_name": "Belgium Pro League",
-    "popular_team": "Ajax Amsterdam",
+    "popular_team": "Royal Sporting Club Anderlecht",
     "team_stadium": "Johan Cruyff Arena"
   },
   {
     "competition_name": "Turkish Süper Lig",
-    "popular_team": "Ajax Amsterdam",
+    "popular_team": "Fenerbahçe",
     "team_stadium": "Johan Cruyff Arena"
   },
   {
     "competition_name": "Scottish Premiership",
-    "popular_team": "Ajax Amsterdam",
+    "popular_team": "Celtic FC",
     "team_stadium": "Johan Cruyff Arena"
   }
 ]
