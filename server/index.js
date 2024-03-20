@@ -8,6 +8,8 @@ const port = 3001;
 
 app.use(cors());
 
+app.use(express.static('public'))
+
 
 app.get("/games", (req, res) => {
   res.send("Hello World!");
@@ -39,3 +41,5 @@ app.get("/epicgames", (req, res) => {
           res.send(data);
       });
         });
+
+    
