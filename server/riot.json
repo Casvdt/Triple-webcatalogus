@@ -6,10 +6,8 @@
         "releaseDate": "June 2, 2020",
         "price": "Free to Play",
         "genres": "tactical shooter,first-person shooter,strategic team-based tactics.",
-        "platforms": [
-            "Windows,macOS,Linux."
-        ],
-        "url": "https://www.rocketleague.com/"
+        "platforms": [ "Windows,macOS,Linux."],
+        "url": "https://playvalorant.com/en-gb/"
     },
     {
         "title": "League of legends",
@@ -18,45 +16,43 @@
         "releaseDate": "October 27, 2009",
         "price": "Free to Play",
         "genres": "multiplayer online battle arena (MOBA) game.",
-        "platforms": [
-            "Windows,macOS,Linux,ios/android."
-        ],
-        "url": "https://leagueoflegends.com/"
+        "platforms": ["Windows,iOS,android."],
+        "url": "https://www.leagueoflegends.com/en-gb/"
     },
     {
         "title": "Teamfight Tactics",
         "description": "Teamfight Tactics is A strategic auto battler mode within the League of Legends universe, where players assemble a team of champions, manage resources, and strategically position units on a dynamic battlefield to outlast their opponents and emerge victorious in intense round-based battles. Developed and published by Riot Games, released on June 26, 2019, available on PC and mobile devices (iOS and Android).",
-        "img": "https://mbo-sd.nl/img/p03/gaming/fallguys.jpg",
+        "img": "https://images.contentstack.io/v3/assets/blt76b5e73bfd1451ea/blt7ce277951f779aa6/5e75289dcd562e2d656cbb84/tft-seo.jpg",
         "releaseDate": "June 26, 2019",
         "price": "Free to Play",
         "genres": "Auto Battler.",
         "platforms": [
             "PC and mobile devices (iOS and Android)"
         ],
-        "url": "https://www.fallguys.com/"
+        "url": "https://teamfighttactics.leagueoflegends.com/en-gb/"
     },
     {
         "title": "Legends of Runeterra",
         "description": "Legends of Runeterra is A captivating digital collectible card game set in the rich lore of the League of Legends universe, offering deep strategic gameplay, deck-building opportunities, and engaging narratives as players battle with iconic champions and spells to conquer opponents and climb the ranks. Developed and published by Riot Games, released on April 30, 2020, available on PC and mobile devices (iOS and Android).",
-        "img": "https://exputer.com/wp-content/uploads/2021/07/Dying-light.jpg",
+        "img": "https://cdn1.epicgames.com/offer/4fb89e9f47fe48258314c366649c398e/EGS_LegendsofRuneterra_RiotGames_S1_2560x1440-5b9bb1dd0e9e185b199de341d79989bc",
         "releaseDate": "April 30, 2020",
         "price": "Free to Play",
         "genres": "Digital Collectible Card Game (CCG)",
         "platforms": [
             "PC and mobile devices (iOS and Android) "
         ],
-        "url": "https://dyinglightgame.com/"
+        "url": "https://playruneterra.com/en-us/"
     },
     {
         "title": "Wild Rift",
         "description": "Wild Rift is A reimagining of League of Legends for mobile and console platforms, featuring streamlined gameplay mechanics, shorter match durations, and optimized controls while retaining the depth and excitement of the original MOBA experience, allowing players to dive into thrilling battles wherever they are. Developed and published by Riot Games, released on October 27, 2020, available on mobile devices (iOS and Android) and consoles (PlayStation and Xbox).",
-        "img": "",
+        "img": "https://sm.ign.com/ign_nl/screenshot/default/wr-meta-homepage_sp1r.jpg",
         "releaseDate": " October 27, 2020",
         "price": "Free to Play",
         "genres": "Multiplayer Online Battle Arena (MOBA) [Mobile and Console adaptation]",
         "platforms": [
             "mobile devices (iOS and Android) and consoles (PlayStation and Xbox)."
         ],
-        "url": "https://genshin.hoyoverse.com/"
+        "url": "https://wildrift.leagueoflegends.com/"
     }
 ]

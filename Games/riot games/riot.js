@@ -8,7 +8,7 @@ fetch('http://localhost:3001/riot')
     
         for (let i = 0; i < myriot.length; i++) {
         listContainer.innerHTML += ` <li>
-        <h2>${myriot[i].title}</h2>
+        <h2 class="title">${myriot[i].title}</h2>
         <div class="body">
         <img class="imageUrl" src = "${myriot[i].img}">
         </div>
