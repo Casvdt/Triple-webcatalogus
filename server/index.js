@@ -9,6 +9,8 @@ const port = 3001;
 app.use(cors());
 
 
+
+
 app.get("/games", (req, res) => {
   res.send("Hello World!");
 });
@@ -20,13 +22,14 @@ app.listen(port, () => {
 app.get("/epicgames", (req, res) => {
   res.setHeader("content-type", "application/json;charset=UTF-8");
   fs.readFile("epic.json", "utf8", (err, data) => {
-      if (err) {
-          console.error(err);
-          res.status(500).send('Internal Server Error');
-          return;
-      }
-      res.send(data);
+    if (err) {
+      console.error(err);
+      res.status(500).send('Internal Server Error');
+      return;
+    }
+    res.send(data);
   });
+<<<<<<< HEAD
     });
     app.get("/formula1", (req, res) => {
       res.setHeader("content-type", "application/json;charset=UTF-8");
@@ -50,3 +53,19 @@ app.get("/epicgames", (req, res) => {
               res.send(data);
           });
             });
+=======
+});
+app.get("/formula1", (req, res) => {
+  res.setHeader("content-type", "application/json;charset=UTF-8");
+  fs.readFile("formula1.json", "utf8", (err, data) => {
+    if (err) {
+      console.error(err);
+      res.status(500).send('Internal Server Error');
+      return;
+    }
+    res.send(data);
+  });
+});
+
+
+>>>>>>> BRANCH.CAS
