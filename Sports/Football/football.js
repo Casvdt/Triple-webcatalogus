@@ -13,7 +13,7 @@ function poep(myPoep) {
         </div>
 
          <h4 class="tekst1">Popular team: ${myPoep[i].popular_team}</h4>
-         <img class="club" src = "${myPoep[i].}
+         <img class="club" src ="${myPoep[i].club_img}">
          <p class="tekst1"> ${myPoep[i].description}</p>
         <p class="tekst">Stadion: ${myPoep[i].team_stadium}</p>
         <div class="cta">
