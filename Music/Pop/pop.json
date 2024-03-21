@@ -5,6 +5,7 @@
         "year": "1979",
         "countryOfOrigin": "Verenigde Staten en Verenigd Koninkrijk",
         "imageUrl": "https://www.altwire.net/wp-content/uploads/2021/12/DancePopGraphic.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Dance-pop",
         "artists": [
             "Madonna",
             "Michael Jackson",
@@ -17,6 +18,7 @@
         "year": "1965",
         "countryOfOrigin": "Europa",
         "imageUrl": "https://cdns-images.dzcdn.net/images/cover/96cd45c46c712c28e2e1f08c1a899378/500x500.jpg",
+        "websiteUrl": "https://nl.wikipedia.org/wiki/Europop#:~:text=Europop%20is%20een%20vorm%20van,markt%20of%20door%20Europese%20artiesten.&text=Boney%20M.,achterblijft%20of%20niet%20aanwezig%20is.",
         "artists": [
             "Abba",
             "Boney M",
@@ -29,10 +31,37 @@
         "year": "1990",
         "countryOfOrigin": "Verenigde Staten",
         "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8f0e3feba38c7de0413abbb",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Country_pop",
         "artists": [
             "Taylor Swift",
             "Shania Twain",
             "George Strait"
+        ]
+    },
+    {
+        "title": "Arab pop",
+        "description": "Arabic pop is mainly produced and originated in Cairo, Egypt; as Egyptian music genre is by far the most widespread within the region. Also Beirut, Lebanon, and Gulf states come as secondary centers. It is an outgrowth of the Arabic film industry (mainly Egyptian movies), also predominantly located in Cairo.",
+        "year": "2000",
+        "countryOfOrigin": "Egypt is the country of origin",
+        "imageUrl": "https://m.media-amazon.com/images/I/51O7OF8DkML._UXNaN_FMjpg_QL85_.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Arabic_pop_music",
+        "artists": [
+            "Amr Diab",
+            "Abdel Halim Hafez",
+            "Ahlam Alshamsi "
+        ]
+    },
+    {
+        "title": "Christian pop",
+        "description": "Its origins are deeply rooted in the late 1960s and early 1970s Jesus Movement. This new sound was created by artists like Larry Norman, Randy Stonehill, and Barry McGuire with the intention of reaching a wider audience with Christian music.",
+        "year": "1960",
+        "countryOfOrigin": "Europa",
+        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273471173e2671f166bba70e613",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Contemporary_Christian_music",
+            "artists": [
+            "Royal Tailor",
+            "MercyMe",
+            "Lauren Diagle"
         ]
     }
 ]
