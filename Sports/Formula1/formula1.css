@@ -16,6 +16,11 @@
     gap:10px;
 }
 
+a{
+    text-decoration: none;
+}
+
+
 .btn1 h3{
 display: flex;
 justify-content: center;
@@ -49,6 +54,10 @@ margin-top: 8px;
 
 .right-sidebar {
     grid-area: rsd;
+}
+
+.lising li {
+    grid-area: crd;
 }
 
 .footer {
@@ -108,12 +117,7 @@ margin-top: 10px;
 
 .wrapper .btn {
     height: 60px;
-    width: 1280px;
-    position: absolute;
-    top: 146.6%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
+    width: 100%;
     background-color: red;
     color: black;
     font-size: 16px;
@@ -252,11 +256,15 @@ justify-content: space-evenly;
         display:grid;
         grid-auto-rows: minmax(60px, auto);
         grid-template-areas: 
-        "hd hd"
-        "lsd main"
-        "lsd main"
-        "ft ft";
+       "hd hd "
+       "main main"
+       "main main"
+       "ft ft";
     } 
+
+
+
+
     .right-sidebar {
         display: none;
     }

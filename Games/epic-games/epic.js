@@ -1,4 +1,4 @@
-fetch('epic.json')
+fetch('http://localhost:3001/epicgames')
     .then(response => response.json())
     .then(jsonData => poep(jsonData));
 
@@ -15,13 +15,16 @@ fetch('epic.json')
         <h4 class="tekst">${myPoep[i].description}</h4>
         <p class="tekst">Price:${myPoep[i].price}</p>
         <p class="tekst">genre:${myPoep[i].genres}</p>
+        <p class="tekst">platforms:${myPoep[i].platforms}</p>
         <p class="tekst">releaseDate:${myPoep[i].releaseDate}</p>
 
 
 
         <div class="cta">
-            <a href="${myPoep[i].url}">klik hier!</a>
-        </div>`
+            <a href="${myPoep[i].url}">Click here for the website!</a>
+            
+        </div>
+        </li>`
         
     }
     }
