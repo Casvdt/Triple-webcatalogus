@@ -8,9 +8,9 @@ function poep(myPoep) {
 
     for (let i = 0; i < myPoep.length; i++) {
         listContainer.innerHTML += ` <li>
-        <h2>${myPoep[i].title}</h2>
+        <h2>${myPoep[i].player_name}</h2>
         <div class="body">
-        <img class="imageUrl" src = "${myPoep[i].imageUrl}">
+        <img class="imageUrl" src = "${myPoep[i].player_img}">
         <div class="drivers">
         <img class="imageUrl1" src = "${myPoep[i].firstDriverImg}">
         <img class="imageUrl1" src = "${myPoep[i].secondDriverImg}">

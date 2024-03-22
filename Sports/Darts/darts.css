@@ -77,7 +77,7 @@ max-width: 100%;
 }
 
 .listing li {
-    border: 2px solid red;
+    border: 2px solid black;
     border-radius: 5px;
     display:flex; 
     flex-direction: column;  

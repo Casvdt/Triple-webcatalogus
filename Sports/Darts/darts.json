@@ -1,6 +1,7 @@
 [
     {
-     "player-name"
+     "player_name":"Michael van Gerwen",
+     "player_img":"https://th.bing.com/th/id/OIP.EPHuJr4lZ7L250cv_v5pIQHaFj?w=225&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
     },
     {
       "competition_name": "La liga",
