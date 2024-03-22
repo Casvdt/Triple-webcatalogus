@@ -124,3 +124,7 @@
 .listing .body {
     padding: 10px;
 }
+
+.header img {
+    width: 250px;
+}
