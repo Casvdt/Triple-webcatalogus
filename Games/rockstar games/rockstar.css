@@ -1,5 +1,5 @@
 .box {
-    background: linear-gradient(208deg,#3a3737,#f17e1f,rgb(161, 97, 23));
+    background: linear-gradient(208deg,#3a3737,rgb(255, 171, 0),rgb(119, 75, 25));
     background-size: 180% 180%;
     animation: gradient-animation 6s ease infinite;
   }
@@ -23,13 +23,13 @@
 }
 
 :root {
-    --main-color: rgb(206, 127, 25);
+    --main-color: rgb(255, 171, 0);
     --box: rgb(255, 255, 255);
 
 }
 
 .title{
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .btn1 h3{
@@ -181,7 +181,7 @@ list-style: none;
 }
 
 .headerImg{
-    width: 200px;
+    width: 250px;
 }
 
 
