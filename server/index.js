@@ -54,5 +54,17 @@ app.get("/epicgames", (req, res) => {
               res.send(data);
           });
             });
+            app.get("/rockstar", (req, res) => {
+              res.setHeader("content-type", "application/json;charset=UTF-8");
+              fs.readFile("rockstar.json", "utf8", (err, data) => {
+                  if (err) {
+                      console.error(err);
+                      res.status(500).send('Internal Server Error');
+                      return;
+                  }
+                  res.send(data);
+              });
+                });
+    
 
 
