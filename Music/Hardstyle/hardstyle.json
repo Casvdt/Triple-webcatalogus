@@ -1,38 +1,67 @@
 [
     {
-        "title": "Dancepop",
-        "description": "Dancepop is popmuziek met dance-invloeden. Het muziekgenre combineert de beats van dancemuziek met de structuur en catchy melodie\u00ebn van pop. Het ontstond eind jaren 70 uit de post-disco.",
-        "year": "1979",
-        "countryOfOrigin": "Verenigde Staten en Verenigd Koninkrijk",
-        "imageUrl": "https://www.altwire.net/wp-content/uploads/2021/12/DancePopGraphic.jpg",
+        "title": "hardcore",
+        "description": "Hardcore is a genre of electronic dance music that originated in the Netherlands, Belgium, and Germany in the early 1990s",
+        "year": "was created in the year 1990",
+        "countryOfOrigin": "invented in the Netherlands, Belgium and Germany",
+        "imageUrl": "https://img.freepik.com/premium-vector/hardcore-music-logo-design_626969-101.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Hardcore_(electronic_dance_music_genre)",
         "artists": [
-            "Madonna",
-            "Michael Jackson",
-            "Vengaboys"
+            "DJ Paul Elstak",
+            "DJ Gizmo",
+            "The Prophet"
         ]
     },
     {
-        "title": "Europop",
-        "description": "Europop is een vorm van popmuziek die in het algemeen wordt gemaakt voor de Europese markt of door Europese artiesten. Kenmerkend is dat deze muziek grensoverschrijdend is binnen Europa, terwijl de populariteit in de VS meestal achterblijft of niet aanwezig is.",
-        "year": "1965",
-        "countryOfOrigin": "Europa",
-        "imageUrl": "https://cdns-images.dzcdn.net/images/cover/96cd45c46c712c28e2e1f08c1a899378/500x500.jpg",
+        "title": "hardhouse",
+        "description": "UK hard house or simply hard house is a style of electronic dance music that emerged in the early 1990s and is synonymous with its association to the Trade club and the associated DJs there that created the style.",
+        "year": "was created in the year 1990",
+        "countryOfOrigin": "invented in the United Kingdom",
+        "imageUrl": "https://hardhousechicago.com/cdn/shop/files/hardhouse._300x300.png?v=1709254421",
+        "websiteUrl": "https://en.wikipedia.org/wiki/UK_hard_house#:~:text=UK%20hard%20house%20or%20simply,there%20that%20created%20the%20style.",
         "artists": [
-            "Abba",
-            "Boney M",
-            "Spice Girls"
+            "Mauro Picotto",
+            "BK",
+            "Steve Hill"
         ]
     },
     {
-        "title": "Countrypop",
-        "description": "Countrypop is een vermenging van countrymuziek met popmuziek. Het is ontstaan toen de Nashville-sound toegankelijker werd gemaakt voor een groter publiek.",
-        "year": "1990",
-        "countryOfOrigin": "Verenigde Staten",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8f0e3feba38c7de0413abbb",
+        "title": "Rave",
+        "description": "Rave music evolved from 1980s techno, house, and New York garage music. The mix of these different styles of dance music helped mold the modern version of electronic rave music.",
+        "year": "was created in the year 1980",
+        "countryOfOrigin": "invented in Verenigde Staten",
+        "imageUrl": "https://image.spreadshirtmedia.net/image-server/v1/compositions/T725A2PA6125PT17X10Y100D151928513W24999H13049/views/1,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/rave-music-logo-in-turquoise-teenage-t-shirt.jpghttps://image.spreadshirtmedia.net/image-server/v1/compositions/T725A2PA6125PT17X10Y100D151928513W24999H13049/views/1,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/rave-music-logo-in-turquoise-teenage-t-shirt.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Rave",
         "artists": [
-            "Taylor Swift",
-            "Shania Twain",
-            "George Strait"
+            "Mish",
+            "Sickmode",
+            "Rooler"
+        ]
+    },
+    {
+        "title": "mainstream",
+        "description": "Under the influence of Hardstyle and industrial hardcore, a new scene was developing featuring DJ Promo and his label The Third Movement. This scene now known as mainstream hardcore emerged in the early 2000s with a modern, mature, slower, and sophisticated form.",
+        "year": "was created in the year 2000",
+        "countryOfOrigin": "invented in the Netherlands",
+        "imageUrl": "https://i.scdn.co/image/ab67706c0000da840b9fe46d4b5c3da65b96938c",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Mainstream_hardcore",
+        "artists": [
+            "Party Animals",
+            "DJ Sharkey",
+            "Critical Mass"
+        ]
+    },
+    {
+        "title": "Hardtrance",
+        "description": "Hard trance is a subgenre of trance music that originated in Belgium, Germany and the Netherlands in the early 1990s as the Breakbeat hardcore production community began to diversify into new and different styles of electronic music, all influenced by Hard house, New beat, Happy hardcore and Jungle music.",
+        "year": "was created in the year 1990",
+        "countryOfOrigin": "invented in in Belgium, Germany and the Netherlands",
+        "imageUrl": "https://i1.sndcdn.com/artworks-000205452505-nc793e-t500x500.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Hard_trance#:~:text=Hard%20trance%20is%20a%20subgenre,Happy%20hardcore%20and%20Jungle%20music.",
+        "artists": [
+            "Ben Nicky",
+            "DJ Dean",
+            "Kai Tracid"
         ]
     }
 ]

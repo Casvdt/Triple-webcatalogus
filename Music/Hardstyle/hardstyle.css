@@ -61,7 +61,7 @@
 
 .header {
     grid-area: hd;
-    background-color: blue;
+    background-color: rgb(116, 15, 163);
 }
 
 .left-sidebar {
@@ -80,7 +80,7 @@
 
 .footer {
     grid-area: ft;
-    background-color: blue;
+    background-color: rgb(116, 15, 163);
 }
 
 .listing {
@@ -99,7 +99,7 @@
 
 
 .listing li h2 {
-    background-color: blue;
+    background-color: rgb(116, 15, 163);
     color: white;
     text-align:center;
     padding: 10px;
@@ -107,7 +107,7 @@
 }
 
 .listing .cta {
-    background-color: blue;
+    background-color: rgb(116, 15, 163);
     color: white;
     margin-top: auto;
     border-top: 2px solid ;
@@ -123,4 +123,8 @@
 
 .listing .body {
     padding: 10px;
+}
+
+.header img {
+    width: 250px;
 }

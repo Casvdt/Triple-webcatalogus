@@ -2,61 +2,66 @@
     {
         "title": "Acid house",
         "description": "Acid House, also known simply as acid, came out of Chicago in the mid-1980s. Like it's forefather, Chicago House, Acid House is a minimalist form of dance music with the slight distinction that it relies on the distinctive electronic squelch of the Roland TB-303 Bass Line Synthesiser.",
-        "year": "1980",
-        "countryOfOrigin": "Chicago",
-        "imageUrl": "",
+        "year": "Was created in the year 1980",
+        "countryOfOrigin": "invented in Chicago",
+        "imageUrl": "https://i1.sndcdn.com/avatars-000485388987-mbhjnf-t500x500.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Acid_house",
         "artists": [
-            "Madonna",
-            "Michael Jackson",
-            "Vengaboys"
+            "Dr. Gabba",
+            "C! erra My$t",
+            "Adonis"
         ]
     },
     {
         "title": "Techhouse",
-        "description": "Europop is een vorm van popmuziek die in het algemeen wordt gemaakt voor de Europese markt of door Europese artiesten. Kenmerkend is dat deze muziek grensoverschrijdend is binnen Europa, terwijl de populariteit in de VS meestal achterblijft of niet aanwezig is.",
-        "year": "1965",
-        "countryOfOrigin": "Europa",
-        "imageUrl": "https://cdns-images.dzcdn.net/images/cover/96cd45c46c712c28e2e1f08c1a899378/500x500.jpg",
+        "description": "History. Tech house is a simple, warm, funky and soulful style of house music that emerged in the 90s as a result of the marriage between house rhythms and techno synths. In 1995, Wiggle Room opened up in London featuring DJ Terry Francis, one of the producers whose goal was to try and foster this new sound.",
+        "year": "Was created in the year 1990",
+        "countryOfOrigin": "invented in Europa",
+        "imageUrl": "https://geo-static.traxsource.com/files/images/0299087d8d306ef59bff1937afcba7cf.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Tech_house",
         "artists": [
-            "Abba",
-            "Boney M",
-            "Spice Girls"
+            "chris Lake",
+            "Jamie Jones",
+            "Mau P"
         ]
     },
     {
         "title": "Electro",
-        "description": "Countrypop is een vermenging van countrymuziek met popmuziek. Het is ontstaan toen de Nashville-sound toegankelijker werd gemaakt voor een groter publiek.",
-        "year": "1990",
-        "countryOfOrigin": "Verenigde Staten",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8f0e3feba38c7de0413abbb",
+        "description": "Music produced solely from electronic generators was first produced in Germany in 1953 by Karlheinz Stockhausen. Electronic music was also created in Japan and the United States beginning in the 1950s and Algorithmic composition with computers was first demonstrated in the same decade.",
+        "year": "Was created in the year 1950",
+        "countryOfOrigin": "invented in Germany",
+        "imageUrl": "https://image.spreadshirtmedia.net/image-server/v1/compositions/T141A2PA6264PT17X21Y20D162915630W20830H24997/views/1,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/electro-music-logo-schuerze.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Electro_(music)",
         "artists": [
-            "Taylor Swift",
-            "Shania Twain",
-            "George Strait"
+            "Sebastian",
+            "Boys Noize",
+            "The Bloody Beetroots"
         ]
     },
     {
         "title": "House",
-        "description": "Countrypop is een vermenging van countrymuziek met popmuziek. Het is ontstaan toen de Nashville-sound toegankelijker werd gemaakt voor een groter publiek.",
-        "year": "1990",
-        "countryOfOrigin": "Verenigde Staten",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8f0e3feba38c7de0413abbb",
+        "description": "That genre is house music, and it was indeed invented by Black and primarily gay DJs in Chicago in the late 1970s and 80s. Since that time, house has evolved; it has gotten bigger, it has gotten whiter, it has made a lot of people a lot of money.",
+        "year": "Was created in the year 1970",
+        "countryOfOrigin": "invented in Chicago",
+        "imageUrl": "https://image.spreadshirtmedia.net/image-server/v1/compositions/T6A2PA5835PT17X24Y121D192278901W26424H8279/views/1,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/house-music-logo-maenner-t-shirt.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/House_music",
         "artists": [
-            "Taylor Swift",
-            "Shania Twain",
-            "George Strait"
+            "David Guetta",
+            "Avicii",
+            "deadmau5"
         ]
     },
     {
         "title": "Minimal techno",
-        "description": "Countrypop is een vermenging van countrymuziek met popmuziek. Het is ontstaan toen de Nashville-sound toegankelijker werd gemaakt voor een groter publiek.",
-        "year": "1990",
-        "countryOfOrigin": "Verenigde Staten",
-        "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8f0e3feba38c7de0413abbb",
+        "description": "Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. By the early 2000s the term minimal generally described a style of techno that was popularized in Germany by labels such as Kompakt, Perlon, and Richie Hawtin's M-nus, among others.",
+        "year": "was created in the year 1990",
+        "countryOfOrigin": "invented in the United States in Detroit",
+        "imageUrl": "https://content-images.p-cdn.com/images/35/56/31/75/e1c74900be2abd2b2034e303/_500W_500H.jpg",
+        "websiteUrl": "https://en.wikipedia.org/wiki/Minimal_techno",
         "artists": [
-            "Taylor Swift",
-            "Shania Twain",
-            "George Strait"
+            "Christian Löffler",
+            "Stereoclip",
+            "DJ Topo"
         ]
     }
 ]
