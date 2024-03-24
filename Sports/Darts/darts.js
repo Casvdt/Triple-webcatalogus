@@ -1,4 +1,4 @@
-fetch('darts.json')
+fetch('http://localhost:3001/darts')
     .then(response => response.json())
     .then(jsonData => poep(jsonData));
 

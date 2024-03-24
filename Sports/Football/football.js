@@ -1,4 +1,4 @@
-fetch('football.json')
+fetch('http://localhost:3001/football')
     .then(response => response.json())
     .then(jsonData => poep(jsonData));
 
