@@ -87,5 +87,38 @@ app.get("/epicgames", (req, res) => {
                           res.send(data);
                       });
                         });
+                        app.get("/pop", (req, res) => {
+                          res.setHeader("content-type", "application/json;charset=UTF-8");
+                          fs.readFile("pop.json", "utf8", (err, data) => {
+                              if (err) {
+                                  console.error(err);
+                                  res.status(500).send('Internal Server Error');
+                                  return;
+                              }
+                              res.send(data);
+                          });
+                            });
+                            app.get("/techno", (req, res) => {
+                              res.setHeader("content-type", "application/json;charset=UTF-8");
+                              fs.readFile("Techno.json", "utf8", (err, data) => {
+                                  if (err) {
+                                      console.error(err);
+                                      res.status(500).send('Internal Server Error');
+                                      return;
+                                  }
+                                  res.send(data);
+                              });
+                                });
+                                app.get("/hardstyle", (req, res) => {
+                                  res.setHeader("content-type", "application/json;charset=UTF-8");
+                                  fs.readFile("hardstyle.json", "utf8", (err, data) => {
+                                      if (err) {
+                                          console.error(err);
+                                          res.status(500).send('Internal Server Error');
+                                          return;
+                                      }
+                                      res.send(data);
+                                  });
+                                    });
 
 
