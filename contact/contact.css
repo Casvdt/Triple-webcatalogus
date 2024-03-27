@@ -148,6 +148,10 @@ a:link {
 
 }
 
+
+
+
+
 @media screen and (min-width: 700px) and (max-width: 1024px) {
     .container {
         display: grid;
@@ -216,3 +220,14 @@ a:link {
    
 
 }
+
+.main {
+    text-align: center;
+   margin-right: 90px;
+  
+  }
+  
+  .maintwo {
+    text-align: center;
+    margin-right: 90px;
+  }
