@@ -1,4 +1,4 @@
-fetch('pop.json')
+fetch('http://localhost:3001/pop')
     .then(response => response.json())
     .then(jsonData => poep(jsonData));
 

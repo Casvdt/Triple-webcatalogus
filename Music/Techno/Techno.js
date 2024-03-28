@@ -1,4 +1,4 @@
-fetch('Techno.json')
+fetch('http://localhost:3001/techno')
     .then(response => response.json())
     .then(jsonData => poep(jsonData));
 

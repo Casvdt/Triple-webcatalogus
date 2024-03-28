@@ -1,4 +1,4 @@
-fetch('hardstyle.json')
+fetch('http://localhost:3001/hardstyle')
     .then(response => response.json())
     .then(jsonData => poep(jsonData));
 
